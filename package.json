@@ -1,5 +1,5 @@
 {
-  "name": "aedes-protocol-decoder",
+  "name": "aedes-protocol-decoder-mtls",
   "version": "2.0.1",
   "description": "Aedes plugin to decode connection frame and validate proxies",
   "main": "index.js",
@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/moscajs/aedes-protocol-decoder.git"
+    "url": "https://github.com/ayushsharma82/aedes-protocol-decoder"
   },
   "bugs": {
-    "url": "http://github.com/moscajs/aedes-protocol-decoder/issues"
+    "url": "https://github.com/ayushsharma82/aedes-protocol-decoder"
   },
   "engines": {
     "node": ">=10"
